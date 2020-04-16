@@ -81,7 +81,7 @@ def game_hash
         :blocks => 12,
         :slam_dunks => 7 },
         
-        {:player_name => "Brook Lopez",
+        {:player_name => "DeSagna Diop",
         :number => 11,
         :shoe => 17,
         :points => 17,
@@ -91,7 +91,7 @@ def game_hash
         :blocks => 1,
         :slam_dunks => 15 },
         
-        {:player_name => "Mason Plumlee",
+        {:player_name => "Ben Gordon",
         :number => 1,
         :shoe => 19,
         :points => 26,
@@ -101,7 +101,7 @@ def game_hash
         :blocks => 8,
         :slam_dunks => 5 },
         
-        {:player_name => "Jason Terry",
+        {:player_name => "Kemba Walker",
         :number => 31,
         :shoe => 15,
         :points => 19,
